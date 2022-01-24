@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Dineshkc30
+- 👀 I’m interested in Machine Learning and AI. 
+- 🌱 I’m currently learning Data Science.
+- 📫 How to reach me: Instagram: @dinesh_kay_cee
